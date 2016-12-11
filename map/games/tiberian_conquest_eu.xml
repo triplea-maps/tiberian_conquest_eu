@@ -852,8 +852,6 @@
       <option name="transportCost" value="2"/>
       <option name="artillerySupportable" value="true"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="artillerySupportable" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="medium_infantry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
@@ -863,8 +861,6 @@
       <option name="transportCost" value="2"/>
       <option name="artillerySupportable" value="true"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="artillerySupportable" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="heavy_infantry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
@@ -874,8 +870,6 @@
       <option name="transportCost" value="2"/>
       <option name="artillerySupportable" value="true"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="artillerySupportable" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="special_infantry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
@@ -885,8 +879,6 @@
       <option name="transportCost" value="2"/>
       <option name="artillerySupportable" value="true"/>
       <option name="isInfantry" value="true"/>
-      <option name="isAirTransportable" value="false"/>
-      <option name="isInfantry" value="false"/>
       <option name="artillerySupportable" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="light_armour" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
